@@ -4,7 +4,7 @@ com.dsideal.jbp.bt
 
 开发环境
 ==================
-Eclipse Kepler(32 bit) + E4 + WindowBuilder插件
+Win7 + JDK1.7 + Eclipse Kepler(32 bit) + E4 + WindowBuilder插件
 
 Author
 ==================
