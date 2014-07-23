@@ -7,7 +7,7 @@ import java.beans.PropertyChangeSupport;
 /**
  * ±¶Í¶¹ØÏµModel.
  * 
- * @author feilm220
+ * @author feilm220 
  * 
  */
 public class Multiple implements PropertyChangeListener {
