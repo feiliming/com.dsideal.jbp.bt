@@ -11,3 +11,5 @@ Application.e4xmi -> Windows -> Trimmed Windows -> Label ºÍ Icon URI
 
 5.Ìí¼ÓÊÓÍ¼
 Application.e4xmi -> Windows -> Trimmed Windows -> Controls
+
+
