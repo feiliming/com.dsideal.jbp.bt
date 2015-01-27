@@ -9,6 +9,7 @@ import java.beans.PropertyChangeSupport;
  * 
  * @author feilm220 2014-07-24 08:39
  * 
+ 
  */
 public class Multiple implements PropertyChangeListener {
 
